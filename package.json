@@ -1,0 +1,23 @@
+{
+  "name": "distance-between",
+  "version": "0.0.1",
+  "description": "Calculate distance in km from coordinates",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurkarganyan/distance-between.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Arthur Karganyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurkarganyan/distance-between/issues"
+  },
+  "homepage": "https://github.com/arthurkarganyan/distance-between#readme"
+}
